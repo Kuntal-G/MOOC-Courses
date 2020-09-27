@@ -14,7 +14,7 @@ Link: (https://www.coursera.org/specializations/deep-learning)
 
 
 ## Natural Language Processing Specialization (Coursera)
-This contains the programming exercise of the Coursera NLP Specialization (by Prof.Younes Bensouda Mourri and Google Eesearch Scientist Łukasz Kaiser ) consisting
+This contains the programming exercise of the Coursera NLP Specialization (by Prof.Younes Bensouda Mourri and Google Research Scientist Łukasz Kaiser ) consisting
 
 * Natural Language Processing with Classification and Vector Spaces
 * Natural Language Processing with Probabilistic Models
