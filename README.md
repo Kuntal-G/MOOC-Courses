@@ -34,7 +34,5 @@ This contains the programming exercise of the Coursera Machine Learning Speciali
  * Machine Learning: Regression
  * Machine Learning: Classification
  * Machine Learning: Clustering & Retrieval
- * Machine Learning: Recommender Systems & Dimensionality Reduction
- * Machine Learning Capstone: An Intelligent Application with Deep Learning
  
 (https://www.coursera.org/specializations/machine-learning) from University of Washington by Prof. Emily Fox and Carlos Guestrin.
